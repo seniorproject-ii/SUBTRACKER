@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    databaseURL: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    projectId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    storageBucket: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    messagingSenderId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    apiKey: "AIzaSyCnPQP8EBUxLOrtt9Rd3e0oh1RMKZE0yxc",
+    authDomain: "subtracker-a0303.firebaseapp.com",
+    databaseURL: "https://subtracker-a0303.firebaseio.com",
+    projectId: "subtracker-a0303",
+    storageBucket: "subtracker-a0303.appspot.com",
+    messagingSenderId: "341711558431"
   }
 };
 
